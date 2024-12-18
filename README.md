@@ -31,7 +31,7 @@ This project integrates job recommendations, salary predictions, and course reco
 - Feedback: Users share feedback that helps future users.
 
 # Team Behind this Project
-
+https://github.com/user-attachments/assets/220262fb-6164-491a-acfe-49e3f4e49d64
 
 # Demonstration Video
  Demo.Of.Our.Project.mp4
