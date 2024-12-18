@@ -34,7 +34,7 @@ This project integrates job recommendations, salary predictions, and course reco
 ![core team of Data Professionals](https://github.com/user-attachments/assets/220262fb-6164-491a-acfe-49e3f4e49d64)
 
 # Demonstration Video
- Demo.Of.Our.Project.mp4
+ [Demo.Of.Our.Project.mp4](https://github.com/user-attachments/assets/d0863f76-e3e9-4282-8945-13642a3c8ac2)
  
 # Conclusion
 The platform addresses fragmented systems by providing a unified solution with advanced features, specifically tailored for data professionals.
